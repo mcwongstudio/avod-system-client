@@ -14,7 +14,7 @@
     "inspector": "^0.5.0",
     "js-cookie": "^2.2.1",
     "node-sass": "^4.13.0",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.1.2",
     "vue": "^2.6.10",
